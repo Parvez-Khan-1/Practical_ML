@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef2c2a61-455c-493e-ad51-367b0517b950" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Learn_ML.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/synerzip.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Clustering/data/xclara.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Clustering/notes/General_Notes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Clustering/src/k_mean_from_scratch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Clustering/src/k_means_scikit_another_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Clustering/src/k_means_using_scikit.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Clustering/src/test.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression/Iris.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression/example.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression/example_1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression/iris_classification.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression/logistic_regression_from_scratch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Logistic_Regression/sklearn_implementation.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Naive_Bayes_Classifier/data.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Naive_Bayes_Classifier/naive_bayes_classifier_from_scratch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Notes/Exploratory Data Analysis" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PCA/notes/note.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/PCA/src/pca_from_scratch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Recurrent_Neural_Networks/Sequence_Learning_Problem.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SVD/simple_svd_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SentimentUsingKeras/sentiment.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/.idea/Regression.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/SLRHelper.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/Simple_Linear_Regression.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/Simple_Linear_Regression_GeeksForGeeks.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/Simple_Linear_Regression_SKLearn.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/Weight_Prediction_Using_SLR.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/data.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/data1.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/ht_wt_dataset.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/metadata.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Simple_Linear_Regression/simple_linear_regression_best_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ducking_tests/example1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/globals_test/first.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/globals_test/second.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/globals_test/third.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gradient_descent/README" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gradient_descent/data.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gradient_descent/linear_regression_with_gradient_descent.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/image_comparison/compae_1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_with_gradient_descent/.~lock.data.csv#" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_with_gradient_descent/data.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_with_gradient_descent/linear_regression_with_sgd.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pydash_tutorial/data.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/pydash_tutorial/example1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/softmax&amp;sigmoid/sigmoid_example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/softmax&amp;sigmoid/sigmoid_graph.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/softmax&amp;sigmoid/softmax_examples.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/softmax&amp;sigmoid/softmax_graph.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spacy_ner/train_ner.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spacy_sent_tokenizer/example.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/basic_operation_using_tf_constant.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/basic_operation_using_tf_placeholder.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/hello_world.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/linear_regression_using_tensorflow.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/linear_regression_using_tflearn.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/simple_neural_net.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tensorflow/tensorflow_in_browser.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/test/spliting.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/word_cloud/constitution.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/word_cloud/simple_corpus_for_reuteres.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/word_cloud/simple_example.py" afterPath="" />
-    </list>
+    <list default="true" id="ef2c2a61-455c-493e-ad51-367b0517b950" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -465,12 +395,12 @@
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24650078" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24650078" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.50278884" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43875968" sideWeight="0.49721116" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6982893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6982893" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
