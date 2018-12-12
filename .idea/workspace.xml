@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef2c2a61-455c-493e-ad51-367b0517b950" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_basic/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_basic/basic.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/numpy_basic/matrix_normalizaion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pandas_basic/exercise_1/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pandas_basic/exercise_1/data.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/linear_regression_with_gradient_descent/.~lock.data.csv#" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,63 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="basic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/numpy_basic/basic.py">
+      <file leaf-file-name="exercise_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rank_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas_basic/rank_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linear_regression_with_gradient_descent/data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linear_regression_with_sgd.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/linear_regression_with_gradient_descent/linear_regression_with_sgd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="first_day.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas_basic/first_day.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="matrix_normalizaion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/numpy_basic/matrix_normalizaion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -131,12 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tensorflow/basic_operation_using_tf_placeholder.py" />
-        <option value="$PROJECT_DIR$/tensorflow/linear_regression_using_tensorflow.py" />
-        <option value="$PROJECT_DIR$/tensorflow/simple_neural_net.py" />
-        <option value="$PROJECT_DIR$/tensorflow/linear_regression_using_tflearn.py" />
-        <option value="$PROJECT_DIR$/Clustering/data/xclara.csv" />
-        <option value="$PROJECT_DIR$/Clustering/src/test.py" />
         <option value="$PROJECT_DIR$/Clustering/src/k_means_using_scikit.py" />
         <option value="$PROJECT_DIR$/Clustering/src/k_mean_from_scratch.py" />
         <option value="$PROJECT_DIR$/Clustering/src/k_means_scikit_another_example.py" />
@@ -182,6 +125,12 @@
         <option value="$PROJECT_DIR$/pandas_basic/duplicate_student.py" />
         <option value="$PROJECT_DIR$/numpy_basic/matrix_normalizaion.py" />
         <option value="$PROJECT_DIR$/numpy_basic/basic.py" />
+        <option value="$PROJECT_DIR$/pandas_basic/test.py" />
+        <option value="$PROJECT_DIR$/pandas_basic/test.ipynb" />
+        <option value="$PROJECT_DIR$/pandas_basic/exercise_1.py" />
+        <option value="$PROJECT_DIR$/pandas_basic/excercise_1/data.csv" />
+        <option value="$PROJECT_DIR$/pandas_basic/excercise_1/exercise_1.py" />
+        <option value="$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py" />
       </list>
     </option>
   </component>
@@ -229,6 +178,12 @@
               <item name="Learn_ML" type="462c0819:PsiDirectoryNode" />
               <item name="pandas_basic" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Learn_ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_ML" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise_1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,15 +193,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/softmax" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Logistic_Regression" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pandas_basic/excercise_1" />
+      <recent name="$PROJECT_DIR$/softmax" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrix_normalizaion">
+  <component name="RunManager" selected="Python.exercise_1.py">
     <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,19 +236,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="duplicate_student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise_1.py" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_basic" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="/usr/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_basic/exercise_1" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Learn_ML" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_basic/duplicate_student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -428,19 +384,18 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.first_day" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exercise_1.py" />
       <item index="1" class="java.lang.String" itemvalue="Python.rank_function" />
-      <item index="2" class="java.lang.String" itemvalue="Python.duplicate_student" />
-      <item index="3" class="java.lang.String" itemvalue="Python.basic" />
-      <item index="4" class="java.lang.String" itemvalue="Python.matrix_normalizaion" />
+      <item index="2" class="java.lang.String" itemvalue="Python.basic" />
+      <item index="3" class="java.lang.String" itemvalue="Python.matrix_normalizaion" />
+      <item index="4" class="java.lang.String" itemvalue="Python.first_day" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.matrix_normalizaion" />
-        <item index="1" class="java.lang.String" itemvalue="Python.basic" />
-        <item index="2" class="java.lang.String" itemvalue="Python.rank_function" />
-        <item index="3" class="java.lang.String" itemvalue="Python.duplicate_student" />
-        <item index="4" class="java.lang.String" itemvalue="Python.first_day" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.first_day" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exercise_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.matrix_normalizaion" />
+        <item index="3" class="java.lang.String" itemvalue="Python.basic" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +440,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.50278884" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5365474" sideWeight="0.49721116" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49144635" sideWeight="0.49721116" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -606,49 +561,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow_in_browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient_descent/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="83" lean-forward="false" selection-start-line="0" selection-start-column="83" selection-end-line="0" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient_descent/linear_regression_with_gradient_descent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient_descent/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/word_cloud/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/word_cloud/constitution.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4158">
-          <caret line="231" column="0" lean-forward="true" selection-start-line="231" selection-start-column="0" selection-end-line="231" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/wordcloud/wordcloud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="287" column="8" lean-forward="false" selection-start-line="287" selection-start-column="8" selection-end-line="287" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word_cloud/simple_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -925,20 +837,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pandas_basic/first_day.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/numpy_basic/basic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -959,10 +863,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/util/_decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="232" column="8" lean-forward="false" selection-start-line="232" selection-start-column="8" selection-end-line="232" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1639">
+          <caret line="716" column="13" lean-forward="true" selection-start-line="716" selection-start-column="13" selection-end-line="716" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_basic/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_basic/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="440" column="8" lean-forward="false" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/linear_regression_with_gradient_descent/linear_regression_with_sgd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="142">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_basic/first_day.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_basic/exercise_1/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="4601" column="26" lean-forward="false" selection-start-line="4601" selection-start-column="26" selection-end-line="4601" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding />
         </state>
       </provider>
