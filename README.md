@@ -1,2 +1,25 @@
 # learn-ml
-This repository contains machine learning algorithm implementation.
+This repository contains practice source code of various algorithms and libraries required in machine learning.
+
+Libraries:
+
+    Pandas
+    Numpy
+    Scikit
+    Scypy
+    Pydash
+
+Machine Learning Algorithm Implementation From Scratch:
+
+    Linear Regression
+    Logistic Regression
+    Gradient Descent
+    Clustering
+    Naive Bayes
+    Activation Functions
+
+Natural Language Processing:
+
+    Spacy
+    Named Entity Recognition
+    WordCloud

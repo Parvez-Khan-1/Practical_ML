@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef2c2a61-455c-493e-ad51-367b0517b950" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pandas_basic/exercise_1/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pandas_basic/exercise_1/data.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_with_gradient_descent/.~lock.data.csv#" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="exercise_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Clustering/src/k_means_using_scikit.py" />
         <option value="$PROJECT_DIR$/Clustering/src/k_mean_from_scratch.py" />
         <option value="$PROJECT_DIR$/Clustering/src/k_means_scikit_another_example.py" />
         <option value="$PROJECT_DIR$/Clustering/notes/Drawbacks_of_KMeans" />
@@ -131,6 +136,7 @@
         <option value="$PROJECT_DIR$/pandas_basic/excercise_1/data.csv" />
         <option value="$PROJECT_DIR$/pandas_basic/excercise_1/exercise_1.py" />
         <option value="$PROJECT_DIR$/pandas_basic/exercise_1/exercise_1.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -458,6 +464,7 @@
     </layout>
   </component>
   <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.txt" />
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -561,13 +568,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/word_cloud/simple_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/word_cloud/simple_corpus_for_reuteres.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -930,6 +930,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
         </state>
       </provider>
