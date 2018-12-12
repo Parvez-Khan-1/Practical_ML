@@ -1,4 +1,4 @@
-# learn-ml
+# Practical Machine Learning
 This repository contains practice source code of various algorithms and libraries required in machine learning.
 
 Libraries:
