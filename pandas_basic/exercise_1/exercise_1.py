@@ -2,7 +2,7 @@ import pandas as pd
 
 
 # Read a CSV from URL
-data_frame = pd.read_csv('data.csv', sep='\t')
+data_frame = pd.read_table('data.csv')
 
 # Print first 10 rows
 data_frame.head(n=10)
