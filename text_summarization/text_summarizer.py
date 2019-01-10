@@ -84,4 +84,4 @@ def generate_summary(file_name, top_n=5):
 
 
 # let's begin
-generate_summary("data.txt", 2)
+generate_summary("data1.txt", 2)
