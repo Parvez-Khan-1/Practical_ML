@@ -12,6 +12,7 @@ Libraries:
 Machine Learning Algorithm Implementation From Scratch:
 
     Linear Regression
+    Decision Trees
     Logistic Regression
     Gradient Descent
     Clustering
